@@ -18,6 +18,7 @@ bidmachine.io,466,DIRECT
 
 #AdMob
 
+google.com, pub-5784311004955543, DIRECT, f08c47fec0942fa0
 #Replace the pub-7533837131088403 below with your Admob Publisher ID
 
 google.com, pub-5784311004955543, DIRECT, f08c47fec0942fa0
