@@ -1,3 +1,6 @@
+# Google AdMob (Pocket Girl Classic)
+google.com, pub-5784311004955543, DIRECT, f08c47fec0942fa0
+
 # Pocket Girl Classic - Direct AdMob
 google.com, pub-5784311004955543, DIRECT, f08c47fec0942fa0
 
